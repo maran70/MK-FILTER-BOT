@@ -284,7 +284,7 @@ async def start(client, message):
                         InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f'https://t.me/shettyDiscus_Group'),
                         InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url="https://t.me/shettymoviess")
                     ],[
-                        InlineKeyboardButton('𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥', url="https://t.me/jeevan_shetty")
+                        InlineKeyboardButton('Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ', url="https://t.me/+BSZtZ3uu20wwMzVl")
                     ],[
                         InlineKeyboardButton("🚀 Fast Download 🚀", url=download),  # we download Link
                         InlineKeyboardButton('🖥️ Watch online 🖥️', url=stream)
@@ -296,7 +296,7 @@ async def start(client, message):
                         InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f'https://t.me/shettyDiscus_Group'),
                         InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url="https://t.me/shettymoviess")
                     ],[
-                        InlineKeyboardButton('𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥', url="https://t.me/jeevan_shetty")
+                        InlineKeyboardButton('Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ', url="https://t.me/+BSZtZ3uu20wwMzVl")
                     ]]
                 msg = await client.send_cached_media(
                     chat_id=message.from_user.id,
@@ -481,7 +481,7 @@ async def start(client, message):
                     InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f'https://t.me/shettyDiscus_Group'),
                     InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url="https://t.me/shettymoviess")
                 ],[
-                    InlineKeyboardButton("𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥", url="t.me/jeevan_shetty")
+                    InlineKeyboardButton("Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ", url="https://t.me/+BSZtZ3uu20wwMzVl")
                 ],[
                     InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @KingVJ01
                 ]]
@@ -490,7 +490,7 @@ async def start(client, message):
                     InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f'https://t.me/shettyDiscus_Group'),
                     InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url="https://t.me/shettymoviess")
                 ],[
-                    InlineKeyboardButton("𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥", url="t.me/jeevan_shetty")
+                    InlineKeyboardButton("Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ", url="https://t.me/+BSZtZ3uu20wwMzVl")
                 ]]
             msg = await client.send_cached_media(
                 chat_id=message.from_user.id,
@@ -554,7 +554,7 @@ async def start(client, message):
                     InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f'https://t.me/shettyDiscus_Group'),
                     InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url="https://t.me/shettymoviess")
                 ],[
-                    InlineKeyboardButton("𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥", url="t.me/jeevan_shetty")
+                    InlineKeyboardButton("Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ", url="https://t.me/+BSZtZ3uu20wwMzVl")
                 ],[
                     InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @KingVJ01
                 ]]
@@ -563,7 +563,7 @@ async def start(client, message):
                     InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f'https://t.me/shettyDiscus_Group'),
                     InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url="https://t.me/shettymoviess")
                 ],[
-                    InlineKeyboardButton("𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥", url="t.me/jeevan_shetty")
+                    InlineKeyboardButton("Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ", url="https://t.me/+BSZtZ3uu20wwMzVl")
                 ]]
             msg = await client.send_cached_media(
                 chat_id=message.from_user.id,
@@ -626,7 +626,7 @@ async def start(client, message):
             InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f'https://t.me/shettyDiscus_Group'),
             InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url="https://t.me/shettymoviess")
         ],[
-            InlineKeyboardButton("𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥", url="t.me/jeevan_shetty")
+            InlineKeyboardButton("Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ", url="https://t.me/+BSZtZ3uu20wwMzVl")
         ],[
             InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @KingVJ01
         ]]
@@ -635,7 +635,7 @@ async def start(client, message):
             InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f'https://t.me/shettyDiscus_Group'),
             InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url="https://t.me/shettymoviess")
         ],[
-            InlineKeyboardButton("𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥", url="t.me/jeevan_shetty")
+            InlineKeyboardButton("Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ", url="https://t.me/+BSZtZ3uu20wwMzVl")
         ]]
     msg = await client.send_cached_media(
         chat_id=message.from_user.id,
