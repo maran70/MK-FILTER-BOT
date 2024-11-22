@@ -1997,7 +1997,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
                 InlineKeyboardButton('💳 Gᴇᴛ Fʀᴇᴇ Oʀ Pᴀɪᴅ Sᴜʙsᴄʀɪᴘᴛɪᴏɴ 💳', callback_data='subscription')
             ],[
-                InlineKeyboardButton('🩷 Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🩷', url="https://t.me/shettymoviess")
+                InlineKeyboardButton('⚡️ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ⚡️', url="https://t.me/shettymoviess")
             ]]
         else:
             buttons = [[
@@ -2009,7 +2009,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton('🆘 Hᴇʟᴘ 🆘', callback_data='help'),
                 InlineKeyboardButton('🤔 Aʙᴏᴜᴛ 🤔', callback_data='about')
             ],[
-                InlineKeyboardButton('🩷 Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🩷', url=https://t.me/shettymoviess)
+                InlineKeyboardButton('⚡️ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ⚡️', url=https://t.me/shettymoviess)
             ]]
         if CLONE_MODE == True:
             buttons.append([InlineKeyboardButton('🤖 Cʀᴇᴀᴛᴇ Yᴏᴜʀ Oᴡɴ Cʟᴏɴᴇ Bᴏᴛ 🤖', callback_data='clone')])
