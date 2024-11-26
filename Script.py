@@ -245,7 +245,7 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 
-<b> Size : {file_size}/n◤ 🔹ᴄʟɪᴄᴋ ᴛᴏ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴘʟᴀɴ  [  /plan  ]🔹◢</b>""" 
+<b>◤ 🔹ᴄʟɪᴄᴋ ᴛᴏ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴘʟᴀɴ [ /plan ]🔹◢</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
