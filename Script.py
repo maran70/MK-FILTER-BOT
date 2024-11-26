@@ -246,13 +246,11 @@ Nᴀᴍᴇ - {}"""
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 
 <b>╭─────── • ◆ • ───────╮
-🎁   ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴘʟᴀɴ   /plan  🎁
+🎁   ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴘʟᴀɴ  /plan  🎁
 ╰─────── • ◆ • ───────╯</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
-
-IMDb Data:
 
 <b>🏷 Title</b>: <a href={url}>{title}</a>
 🎭 Genres: {genres}
@@ -266,7 +264,7 @@ IMDb Data:
 
 ⏰Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
 
-🫂Requested by : {message.from_user.mention}</b>"""
+💥Requested by : {message.from_user.mention}</b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
