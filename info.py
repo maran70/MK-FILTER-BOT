@@ -134,7 +134,7 @@ TUTORIAL = environ.get('TUTORIAL', '') # How Open Shortner Link Video Link , Cha
 # Others
 CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
 MAX_B_TN = environ.get("MAX_B_TN", "5")
-PORT = environ.get("PORT", "5000")
+PORT = environ.get("PORT", "8090")
 MSG_ALRT = environ.get('MSG_ALRT', 'Hello My Dear Friends ❤️')
 CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", f"{script.CAPTION}")
 BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", CUSTOM_FILE_CAPTION)
@@ -196,4 +196,5 @@ else:
 # Don't Remove Credit @AnimeSLinkzZ
 # Subscribe YouTube Channel For Amazing Bot @AnimeSLinkzZ
 # Ask Doubt on telegram @AnimeSLinkzZ
+
 
